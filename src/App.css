@@ -4,6 +4,7 @@
   padding: 20px;
   font-family: Arial, sans-serif;
   background-color: #f2f2f2;
+  box-sizing: border-box;
 }
 
 h1 {
@@ -20,6 +21,7 @@ textarea {
   border: 1px solid #ccc;
   border-radius: 4px;
   resize: vertical;
+  box-sizing: border-box;
 }
 
 .button-container {
